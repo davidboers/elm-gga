@@ -1,0 +1,1 @@
+module GeneralAssembly.Votes exposing (..)
