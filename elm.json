@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "davidboers/gga-api",
-    "summary": "Public access to API for the Georgia General Assembly",
+    "summary": "Public access to the API for the Georgia General Assembly",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
     "exposed-modules": [
